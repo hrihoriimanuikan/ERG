@@ -51,9 +51,7 @@ Returns:
 The calculated output value.
 
 Example
-cpp
-Копировать
-Редактировать
+```cpp
 #include "ERG.h"
 
 void setup() {
