@@ -72,5 +72,7 @@ void loop() {
   Serial.println(output); // Output the result
   delay(1000); // Wait for a second
 }
+
+
 License
 This library is licensed under the MIT License - see the LICENSE file for details.
